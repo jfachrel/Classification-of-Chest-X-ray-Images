@@ -1,6 +1,6 @@
 # Classification of Chest X-ray Images
  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ycNuUieEq941P29Ubuy5B-HY7Qz4BPj1?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ADRvz2I3qWSyHU0kdwR4iEUNVfkVgRW4?usp=sharing)
 
 ## How to Run This App
 
